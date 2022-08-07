@@ -5,7 +5,7 @@ node index.js --action list
 ```
  ![GitHub actions settings](./img/command-1.jpg)
  
- ## Get on contact
+ ## Get one contact
 ```shell
 node index.js --action get --id 5
 ```
